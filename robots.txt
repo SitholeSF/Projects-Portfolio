@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sitholesf.github.io/Siziwe_Portfolio/sitemap.xml
